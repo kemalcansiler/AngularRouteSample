@@ -1,3 +1,1 @@
 # AngularRouteSample
-
-deneme
